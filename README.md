@@ -4,4 +4,4 @@
 3. [flipbook](https://grb10.github.io/medios/flipbook)- [codigo](https://github.com/GRB10/medios/blob/master/flipbook/flipbook.js)
 4. [paint](https://grb10.github.io/medios/paint)- [codigo](https://github.com/GRB10/medios/blob/master/paint/paint.js)
 5. [snake](https://grb10.github.io/medios/snake)- [codigo](https://github.com/GRB10/medios/blob/master/snake/snake.js)
-6. [Reloj](https://grb10.github.io/medios/clock)- [codigo](https://github.com/GRB10/medios/blob/master/clock/clock.js).
+6. [Reloj](https://grb10.github.io/medios/clock)- [codigo](https://github.com/GRB10/medios/blob/master/clock/clock.js)
