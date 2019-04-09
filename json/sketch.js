@@ -167,7 +167,7 @@ function draw() {
 
       for (var b = 1; b < 2; b = random) {
 
-        fill(0, 0, 0, 200);
+        fill(0, 0, 0, 170);
         rect(150, 80, 500, 440);
 
         var nombreB = datos.artistas[b].name;
